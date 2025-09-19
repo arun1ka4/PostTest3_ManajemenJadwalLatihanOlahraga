@@ -5,7 +5,7 @@ Program manajemen jadwal latihan olahraga adalah program berbasis Java yang digu
 Fitur program ini terdiri dari beberapa package:
 1. Model: Memiliki class JadwalLatihan dengan subclassnya yaitu class Kardio dan Kekuatan
 - class Kardio: terdapat tambahan data tambahan yaitu jarak (dalam satuan km) dan durasi (dalam satuan menit)
-- class kekuatan terdapat tambahan data tambahan yaitu set dan repetisi
+- class Kekuatan terdapat tambahan data tambahan yaitu set dan repetisi
 3. Service: Menangani logika bisnis dan logika CRUD yang terdiri dari
 - Tambah jadwal -> Menambahkan jenis latihan serta hari latihan tersebut
 - Lihat jadwal -> Melihat jadwal latihan yang telah ditambahkan
