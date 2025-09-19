@@ -1,1 +1,1 @@
-# PostTest3_ManajemenJadwalLatihanOlahraga
+# Manajemen Jadwal Latihan Olahraga
