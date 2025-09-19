@@ -18,7 +18,7 @@ Fitur program ini terdiri dari beberapa package:
 # Alur Program
 1. Pilih Menu
 
-<img width="631" height="196" alt="image" src="https://github.com/user-attachments/assets/2e381a8e-61a4-4cab-8ec7-f0d066ee1648" />
+<img width="367" height="196" alt="image" src="https://github.com/user-attachments/assets/2c94b47d-1c1c-417d-a20a-8f9c5d5c74ac" />
 
 3. Pilih Menu == 1
 
