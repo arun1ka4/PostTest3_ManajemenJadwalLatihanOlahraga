@@ -19,6 +19,7 @@ Fitur program ini terdiri dari beberapa package:
 1. Pilih Opsi Nomor 1
 
 Subclass Kardio 
+
 <img width="368" height="442" alt="image" src="https://github.com/user-attachments/assets/d5c07b2d-0800-4ef7-9165-44a4a52f2126" />
 
 Subclass Kekuatan
