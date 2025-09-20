@@ -22,9 +22,17 @@ Subclass Kardio
 
 <img width="368" height="442" alt="image" src="https://github.com/user-attachments/assets/d5c07b2d-0800-4ef7-9165-44a4a52f2126" />
 
+Jika input durasi atau jarak != angka
+
+<img width="418" height="257" alt="image" src="https://github.com/user-attachments/assets/8d9e9c27-72fd-4e28-83db-3146111abc6a" />
+
 Subclass Kekuatan
 
 <img width="402" height="440" alt="image" src="https://github.com/user-attachments/assets/a8100073-58f6-4ca4-8b6a-6b0b79ab50f5" />
+
+Jika input set dan repetisi != angka bilangan bulat
+
+<img width="407" height="248" alt="image" src="https://github.com/user-attachments/assets/a90bee44-b7bb-4118-87e2-0cef0412a710" />
 
 3. Pilih Opsi Nomor 2
 
